@@ -2,6 +2,14 @@
 
 ## Trunk
 
+* Create users API
+
+## Version 1.1.0
+
+* Unit test of the users REST API
+* Create method `create` user
+* Unit test of the `create` user method in the `users.js` controller
+
 ## Version 1.0.0
 
 * Release the version 1.0.0
