@@ -1,6 +1,6 @@
 # User API http-server
 
-Simple http-server with user API
+Simple http-server with a user API
 
 ## Functionality
 

@@ -2,6 +2,10 @@
 
 ## Trunk
 
+## Version 1.0.0
+
+* Release the version 1.0.0
+* Create the `configure.js` module
 * First unit test
 * Create a configuration file
 * Create the `.gitignore` file
