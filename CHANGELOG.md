@@ -1,7 +1,9 @@
 # Changelog
 
-## Trunk
+## Version 1.2.0
 
+* Update README
+* Put TODO for further development
 * Create users API
 
 ## Version 1.1.0

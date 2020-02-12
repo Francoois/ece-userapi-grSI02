@@ -33,5 +33,10 @@ describe('Users REST API', ()=> {
           throw err
         })
     })
+
+  })
+
+  describe('GET /user', ()=> {
+    // TODO create tests for GET user
   })
 })
